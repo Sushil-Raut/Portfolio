@@ -1,0 +1,42 @@
+{
+  "projects": [
+    {
+      "date": "",
+      "title": "AnaLock Clock",
+      "description": "This project features a sleek analog clock with smooth-moving hands and a real-time digital display for a modern, functional look",
+      "url": "https://myclock07.netlify.app/",
+      "imgSrc": "https://www.jqueryscript.net/images/collective/AnalogClock.webp"
+    },
+
+    {
+      "date": "",
+      "title": "TextUtils",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "https://text-utils-no-1.netlify.app/",
+      "imgSrc": "https://i.ibb.co/GvMKH87P/Screenshot-2025-03-21-204803.png"
+    },
+    {
+      "date": "",
+      "title": "Daily Goal",
+      "description": "Daily Goal Set helps users track and manage daily goals effortlessly, with progress securely stored in Firebase.",
+      "url": "https://mydailygoals07.netlify.app/",
+      "imgSrc": "https://i.ibb.co/k25H7JPv/Screenshot-2025-03-21-205129.png"
+    },
+
+    
+    {
+      "date": "",
+      "title": "PORTFOLIO",
+      "description": "I’ve built a dynamic portfolio that not only showcases my work but also seamlessly captures and stores client inquiries— including names, emails, and messages—securely in Firebase Cloud",
+      "url": "/",
+      "imgSrc": "https://avatars.githubusercontent.com/u/126153012?s=400&u=05e602f354adb6ccfd58e2492d1305bb8b211641&v=4"
+    },
+    {
+      "date": "",
+      "title": "Traveling web frontend",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "https://travelingwithsushil.netlify.app/",
+      "imgSrc": "https://i.ibb.co/5hGvzYs7/Screenshot-2025-03-21-213720.png"
+    }
+  ]
+}
